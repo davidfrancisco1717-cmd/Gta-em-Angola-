@@ -1,0 +1,225 @@
+<!-- Máximo permitido: 60 caracteres por frase (2 a 3 linhas no balão). Mensagens maiores que 60 caracteres são ignoradas pelo sistema. -->
+# Falas dos NPCs na Rua — Tecnologia e IA
+
+- Meu prompt funcionou de primeira. Tô assustado.
+- A IA disse que tá pronto, mas nem compila.
+- Hoje acordei pensando em código e dormi em JSON.
+- O bug não é meu, é comportamento emergente.
+- Alguém viu meus tokens? Acabaram no meio da frase.
+- Pedi um botão simples e a IA criou um ERP.
+- Se funcionar em produção, não encosta mais!
+- Minha GPU tá pedindo férias no Caribe.
+- CSS é fácil, difícil é centralizar uma div.
+- Testei na minha máquina e juro que tava lindo.
+- A IA alucinou tanto que inventou uma linguagem nova.
+- Só mais um prompt e eu juro que vou dormir.
+- Commit sem mensagem é sinal de desespero.
+- Apaguei o node_modules e ganhei 40 GB de paz.
+- O servidor caiu, mas a culpa foi do cache.
+- Vibe coding é programar no poder da fé e do café.
+- A IA pediu desculpas e quebrou outra coisa.
+- Já tentei reiniciar e até rezar pro roteador.
+- Coloquei um console.log e resolvi minha vida.
+- O cliente quer IA até no filtro de café.
+- Fui debugar um erro e achei três piores.
+- Documentação? O código é autoexplicativo, confia.
+- Esse algoritmo roda em O de Deus me ajude.
+- A nuvem é só o computador de outra pessoa.
+- Fiz deploy na sexta e mudei de nome.
+- Sem café, meu cérebro retorna erro 503.
+- A IA escreveu um poema em vez de SQL.
+- Minha memória RAM tá chorando com 80 abas.
+- Quebrei o layout só trocando uma vírgula.
+- Hoje o Wi-Fi tá mais lento que tartaruga no gelo.
+- O chatbot disse que eu tenho razão. Que suspeito!
+- Se der erro 404, finge que é minimalismo.
+- Atualizei a biblioteca e nada mais abriu.
+- Nenhuma IA vai superar a preguiça humana.
+- Meu código tem sentimentos: às vezes funciona, às vezes não.
+- A IA me elogiou antes de apagar meu banco.
+- Esqueci o ponto e vírgula e perdi duas horas.
+- Tive uma ideia genial, mas o Copilot já tinha feito.
+- Tá rodando liso, só não abre o console.
+- A placa de vídeo esquentou tanto que fritou meu pão.
+- Backup é igual cinto: só lembra quando bate.
+- Mudei uma cor e o backend parou de responder.
+- A IA tá tão esperta que já reclama de reunião.
+- Minha senha tem 18 caracteres e eu já esqueci.
+- Só queria um café sem precisar aceitar cookies.
+- O estagiário deu force push na main de novo!
+- Meu teclado RGB aumenta o FPS do código.
+- Quem precisa de mapa quando tem GPS com IA?
+- A bateria do celular dura menos que uma daily.
+- Regex parece senha de alienígena, ninguém entende.
+- A IA gerou 500 linhas pra somar dois números.
+- Se tá lento, coloca um spinner bonito que resolve.
+- Hoje sonhei que eu era um loop infinito.
+- Faltou luz e meu código foi pra outra dimensão.
+- Não é gambiarra, é arquitetura alternativa.
+- O robô da esquina já sabe mais JavaScript que eu.
+- Limpei o cache e metade do site sumiu.
+- A IA respondeu com confiança total... tudo errado!
+- Preciso de mais memória, no PC e na cabeça.
+- Toda reunião podia ser uma mensagem no chat.
+- A tela azul apareceu bem na hora do print.
+- Aprendi Python ontem e hoje já sou especialista.
+- Esse erro só acontece quando o chefe tá olhando.
+- O código legado morde quem tenta refatorar.
+- Coloquei dark mode pra parecer mais profissional.
+- A IA disse "ótima pergunta" e não respondeu nada.
+- Meu mouse sem fio acabou a pilha no meio do clutch.
+- Tô treinando uma rede neural pra escolher meu almoço.
+- Se não tiver bug, não fui eu que programei.
+- A internet caiu bem na hora do upload final.
+- Criei uma IA que só gera desculpas pro chefe.
+- O código tá feio, mas passou nos testes!
+- Alguém desligou o servidor pra carregar o celular.
+- Minha vida é um eterno Ctrl+C e Ctrl+V.
+- O autocorretor tá tentando sabotar meu prompt.
+- A placa de vídeo custa mais que meu carro.
+- Hoje vou codar sem olhar o Stack Overflow... mentira.
+- A IA fez um código tão bom que eu não entendi.
+- O relógio do servidor tá em outro fuso horário.
+- Troquei o cabo USB e o bug desapareceu.
+- A inteligência artificial já sabe fazer café?
+- Meu disco tá 99% cheio de prints de erro.
+- O botão funciona, só tem que clicar com carinho.
+- A IA sugeriu deletar tudo e começar de novo.
+- Fui dormir às 3h resolvendo um erro de digitação.
+- O sistema tá fora do ar, mas o design tá lindo.
+- Essa API retorna tudo, menos o que eu pedi.
+- A latência hoje tá viajando de carroça.
+- Quem inventou o fuso horário em banco de dados?
+- Meu código funciona por pura pressão psicológica.
+- A IA me chamou de mestre e depois deu timeout.
+- O ventilador do notebook parece um avião decolando.
+- Só confio em código que já falhou pelo menos três vezes.
+- Meu prompt tinha 200 palavras e eu escrevi "faz bonitinho".
+- O usuário clicou onde não devia e quebrou tudo.
+- A nuvem choveu e molhou meu deploy.
+- Testar em produção dá mais adrenalina que corrida.
+- A IA ficou filosofando sobre o sentido do null.
+- Meu código não tem bugs, tem surpresas interativas.
+- Esqueci de salvar antes de fechar o editor!
+- O terminal ficou verde e eu já me senti hacker.
+- A rede neural confundiu um gato com uma torradeira.
+- Hoje o algoritmo só tá me recomendando coisa errada.
+- O servidor reiniciou sozinho por solidão.
+- Escrevi "por favor" no prompt só por garantia.
+- A bateria em 1% dura mais que meu foco em 100%.
+- O JSON quebrou por causa de uma vírgula sobrando.
+- A IA criou uma função recursiva que nunca mais voltou.
+- Meu fone Bluetooth conectou na TV do vizinho.
+- Se der undefined, coloca um ponto de interrogação.
+- O design ficou responsivo, menos no celular de verdade.
+- A IA respondeu em inglês no meio da frase em português.
+- Meu notebook esquenta tanto que dispensa aquecedor.
+- O banco de dados sumiu, mas eu tenho fé.
+- A barra de progresso travou em 99% desde ontem.
+- Criei um atalho que demora mais que o caminho longo.
+- A IA disse que não pode fazer isso e fez mesmo assim.
+- O código antigo é patrimônio histórico, não mexe!
+- Hoje eu só queria um Ctrl+Z pra vida real.
+- A impressora sentiu meu medo e travou o papel.
+- O Dockerfile funcionou na primeira! Tô sonhando?
+- Minha senha expirou e eu já não sei quem sou.
+- O bot de atendimento me transferiu pra outro bot.
+- Coloquei IA no meu despertador e ele me julgou.
+- A internet de fibra aqui parece barbante molhado.
+- O commit tinha 1 arquivo e 4.000 linhas alteradas.
+- A IA inventou uma biblioteca que nunca existiu.
+- Meu navegador tá com tanta aba que virou acordeão.
+- Se não sabe explicar, fala que é microsserviço.
+- O capacitor da placa deu tchau e foi embora.
+- Fui otimizar 2ms e quebrei o sistema inteiro.
+- A IA escreveu um comentário dizendo "não mexa aqui".
+- O dark mode salvou minha visão às 2 da manhã.
+- Meu código tem mais comentários que lógica.
+- O servidor aguenta tudo, menos dois usuários juntos.
+- A senha precisa de letra, número, símbolo e um poema.
+- O teclado mecânico acorda até o quarteirão inteiro.
+- A IA gerou uma imagem com sete dedos na mão!
+- Hoje meu cérebro deu segfault antes do almoço.
+- O cache antigo tá assombrando essa página.
+- Se tá funcionando no Safari, já merece um troféu.
+- O cabo HDMI só pega se dobrar pra esquerda.
+- Pedi código limpo e recebi uma enciclopédia.
+- A rede caiu bem na hora do último chefe.
+- Meu Git tá com tanto conflito que precisa de terapia.
+- A IA aprendeu sarcasmo e agora só me zoa.
+- O pendrive só entra na terceira tentativa.
+- Era só uma pequena alteração... três horas depois.
+- A tela travou, mas o mouse ainda mexe com esperança.
+- O servidor tá rodando num notebook velho atrás do armário.
+- A IA me recomendou descansar. Quem ela pensa que é?
+- Esse bug é tão raro que só acontece às terças.
+- Meu código passa no lint, mas falha na vida.
+- O cliente pediu "algo simples, tipo a Netflix".
+- A placa de vídeo tá piscando RGB pra disfarçar o lag.
+- Esqueci o await e tudo aconteceu fora de ordem!
+- A IA traduziu "bug" como "inseto no sistema".
+- O monitor apagou pra economizar energia enquanto eu pensava.
+- Se o usuário não lê o aviso, a culpa é do aviso.
+- Meu script virou um monstro que nem eu controlo.
+- O JSON veio como string dentro de outra string!
+- A IA criou um CSS com 9999 de z-index.
+- Hoje meu café tá compilando em modo lento.
+- O roteador só precisa de um tapinha técnico.
+- A API deu 200 OK com mensagem de erro dentro!
+- O modelo de IA respondeu: "Depende". Muito útil!
+- Meu disco SSD tá mais cheio que ônibus em horário de pico.
+- Fiz um loop tão rápido que viajei no tempo.
+- A IA disse "certamente!" e errou tudo de novo.
+- O app fechou sozinho pra poupar minha paciência.
+- Meu código tem personalidade própria, não obedece ninguém.
+- Só queria que o CSS entendesse o que eu sinto.
+- A placa-mãe apitou em código Morse hoje cedo.
+- O login social me deslogou de todas as contas.
+- A IA resumiu meu texto deixando maior que o original.
+- O mouse travou bem na hora de clicar em salvar.
+- Hoje o algoritmo tá mais confuso que eu.
+- O servidor de testes virou produção sem ninguém notar.
+- A bateria do notebook durou exatos 14 minutos.
+- O autocomplete completou minha frase com tristeza.
+- A IA achou um bug que eu nem sabia que existia.
+- Esse erro de CORS me persegue até nos sonhos.
+- Troquei HTTP por HTTPS e o mundo voltou a girar.
+- O terminal disse "Permission denied" pro dono do PC.
+- A IA sugeriu usar mais uma camada de abstração.
+- Meu código tá rodando a 60 FPS na base do milagre.
+- O botão de voltar fechou o aplicativo inteiro.
+- A nuvem hoje tá nublada e cheia de latência.
+- Pedi um gráfico e a IA desenhou com asteriscos.
+- O sistema pediu atualização bem na hora da apresentação.
+- Meu pen drive sumiu no bolso junto com meus sonhos.
+- A IA começou a responder em latim do nada.
+- O deploy demorou 20 minutos pra falhar no último segundo.
+- Se tá lento, culpa a renderização do navegador.
+- O carregador só funciona em um ângulo de 47 graus.
+- A IA disse que entendeu o contexto e mudou tudo.
+- Meu código tá tão limpo que até brilha no escuro.
+- O backup tava corrompido desde 2022, parabéns!
+- A tela do celular quebrou bem em cima do botão OK.
+- Hoje o Vibe Coding tá mais pra Vibe Debugging.
+- A IA escreveu um teste que sempre retorna true.
+- O servidor pediu mais memória e eu dei um tapinha.
+- Meu teclado travou no Caps Lock e agora eu só grito!
+- A API mudou sem avisar ninguém, clássico.
+- O sistema de login entrou em loop de verificação.
+- A IA me pediu pra ser mais específico no pedido.
+- O cooler tá fazendo barulho de liquidificador.
+- Só queria um banco de dados que não reclame de tipo.
+- Meu código funcionou e eu nem sei por quê!
+- A IA gerou um SVG que parece um ovo frito.
+- O cron job rodou três vezes no mesmo segundo.
+- Meu código tá em beta eterno desde o ano passado.
+- A placa de rede desistiu no meio da reunião.
+- O usuário digitou emoji no campo de CPF.
+- A IA disse "ótima ideia" pra pior ideia do dia.
+- Hoje vou codar offline pra ninguém ver meus erros.
+- O script de limpeza apagou a pasta errada!
+- A interface ficou linda, pena que não salva nada.
+- O servidor voltou do além depois do terceiro reboot.
+- A IA respondeu tão rápido que fiquei desconfiado.
+- Todo mundo quer IA, mas ninguém quer limpar os dados.
+- Fim do expediente, hora de pensar em código no banho.
