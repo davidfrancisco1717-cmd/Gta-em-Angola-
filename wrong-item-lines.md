@@ -1,0 +1,63 @@
+<!-- Máximo permitido: 60 caracteres por frase (2 a 3 linhas no balão). Mensagens maiores que 60 caracteres são ignoradas pelo sistema. -->
+# Falas Genéricas ao Entregar Item Errado
+
+- Opa, isso aí não é o que eu te pedi!
+- Legal o brinde, mas cadê o item da missão?
+- Isso não compila com o que eu preciso agora!
+- Erro 404: item correto não encontrado na mochila.
+- Acho que a IA trocou seus itens no inventário!
+- Muito bonito, mas não resolve meu bug de jeito nenhum.
+- Você clicou no slot errado, tenta de novo!
+- Isso aí parece promissor, mas não é o que eu quero.
+- Meu prompt pedia outra coisa, olha direito!
+- Boa tentativa, mas esse não passa nos testes!
+- Isso não vai rodar em produção nem com reza!
+- Troca esse item aí que esse deu tela azul aqui!
+- Ainda bem que tem Ctrl+Z, porque esse não é o certo.
+- Meus tokens acabaram tentando entender esse item!
+- Obrigado, mas eu pedi outra coisa na missão!
+- Esse item tá em outro contexto, procura melhor!
+- Parece ótimo, só que é literalmente o item errado.
+- Se eu aceitar isso, o servidor cai na hora!
+- Acho que seu cache do inventário tá desatualizado!
+- Não é esse não! Dá mais uma olhada na sua bolsa.
+- Interessante... mas não tem nada a ver com o combinado!
+- Esse aí só serve pra enfeitar a estante!
+- Tá quase lá, mas ainda passou longe do objetivo!
+- Você tá testando minha paciência ou meu código?
+- Esse item veio com bug, me traz o certo!
+- Hmm... isso não parece nem um pouco com o que pedi.
+- Desculpa, mas essa dependência não é compatível!
+- Boa piada! Agora me entrega o item verdadeiro.
+- Isso aí não passa nem no lint, imagina na entrega!
+- Alguém fez merge errado no seu inventário!
+- Não aceito gambiarra, quero o item da missão!
+- O algoritmo aqui rejeitou essa entrega na hora!
+- Quase me enganou, mas eu li a documentação!
+- Esse item aí é só decoração, né?
+- Tenta outro slot, esse deu undefined aqui!
+- Se fosse fácil assim, nem precisava de missão!
+- Parece legítimo... só que não! Pega o certo lá.
+- Meu detector de gambiarra apitou forte agora!
+- Você trouxe um souvenir em vez do item certo!
+- Isso não vai destravar o próximo passo não!
+- Deu timeout na minha paciência, escolhe o certo!
+- Ótima coleção, mas eu preciso mesmo é do outro item.
+- Opa, acho que você confundiu os pacotes na entrega!
+- Isso aí tá fora do escopo do projeto!
+- Não é esse! Confere a descrição dos seus itens.
+- Acho que a rede neural se confundiu na escolha!
+- Bonito, mas não serve pra essa entrega!
+- Esse item aí é de outra história, né possível!
+- Erro de tipo! Eu esperava outro objeto aqui.
+- Sem chance! Procura melhor aí no inventário.
+- Gostei da criatividade, mas pega o item certo!
+- Esse não dá pra usar aqui nem com gambiarra!
+- A entrega falhou: item incompatível com a missão!
+- Olha com calma que o item certo tá por aí!
+- Isso aí não é o que combinamos no briefing!
+- Opa, retorno inesperado! Tenta outro item aí.
+- Nem a IA mais otimista aceitaria esse item!
+- Tá faltando atenção nesse inventário, hein!
+- Boa tentativa, mas o sistema recusou essa entrega!
+- Escolhe outro! Esse aí não vai resolver nada.
